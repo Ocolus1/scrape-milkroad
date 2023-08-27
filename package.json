@@ -1,0 +1,17 @@
+{
+  "name": "scrape-milkroad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "langchain": "^0.0.135",
+    "puppeteer": "^19.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
